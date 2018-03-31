@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\diana\desktop\oop\lab5-6\lab5-6\dynamicvector.h(115): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  c:\users\diana\desktop\oop\lab5-6\lab5-6\dynamicvector.h(114): note: while compiling class template member function 'void DynamicVector<int>::resize(double)'
+  c:\users\diana\desktop\oop\lab5-6\lab5-6\dynamicvector.h(81): note: see reference to function template instantiation 'void DynamicVector<int>::resize(double)' being compiled
+  c:\users\diana\desktop\oop\lab5-6\lab5-6\dynamicvector.h(29): note: while compiling class template member function 'DynamicVector<int>::DynamicVector(int)'
+  c:\users\diana\desktop\oop\lab5-6\lab5-6\main.cpp(10): note: see reference to function template instantiation 'DynamicVector<int>::DynamicVector(int)' being compiled
+  c:\users\diana\desktop\oop\lab5-6\lab5-6\main.cpp(10): note: see reference to class template instantiation 'DynamicVector<int>' being compiled
+  Lab5-6.vcxproj -> C:\Users\Diana\Desktop\OOP\Lab5-6\Debug\Lab5-6.exe
+  Lab5-6.vcxproj -> C:\Users\Diana\Desktop\OOP\Lab5-6\Debug\Lab5-6.pdb (Partial PDB)
